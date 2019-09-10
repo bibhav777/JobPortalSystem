@@ -4,6 +4,7 @@
   "description": "FinalProject",
   "main": "app.js",
   "scripts": {
+    "development": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bibhav777/JobPortalSystem/issues"
   },
-  "homepage": "https://github.com/bibhav777/JobPortalSystem#readme"
+  "homepage": "https://github.com/bibhav777/JobPortalSystem#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
