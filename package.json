@@ -1,0 +1,19 @@
+{
+  "name": "jobportalsystem",
+  "version": "1.0.0",
+  "description": "FinalProject",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibhav777/JobPortalSystem.git"
+  },
+  "author": "Beebhav Sapkota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibhav777/JobPortalSystem/issues"
+  },
+  "homepage": "https://github.com/bibhav777/JobPortalSystem#readme"
+}
